@@ -1,0 +1,3 @@
+
+void oledDisplayWiFi();
+void oledLightStatus();

@@ -4,7 +4,8 @@
 #include <Wire.h>
 #include <SPI.h>
 #include "encoders/as5048a/MagneticSensorAS5048A.h"
-
+#include "driver/mcpwm.h"
+#include "stdint.h"
 //#define SPI_ENCODER
 
 
